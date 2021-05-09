@@ -1,13 +1,13 @@
 # ***WINFORM: LAB MANAGER***
 
 ## ***INTRODUCTION***
-
+* Language: C#
 * This project can manager:
   * Member
   * Project
   * Task in project
   * User account
-  * More:
+  * Bonus:
     * Show list task and project need complete soon.
     * QR code.
     * Extract list member, project or task to pdf file.
