@@ -11,7 +11,7 @@
     * Show list task and project need complete soon.
     * QR code.
     * Extract list member, project or task to pdf file.
-* Database: RDBMS
+* Database: SQL SERVER
   * Tables:
   <table>
 
